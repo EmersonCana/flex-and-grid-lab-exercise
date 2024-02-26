@@ -2,14 +2,15 @@
 
 ### Introduction
 
-The purpose of this activity is to create an actual website interface using **Bootstrap Framework**
+The purpose of this activity is to practice and use media queries to create mobile responsive websites
+**Bootstrap Framework**
 
 ### Objective
 
-Recreate the webpage as shown in the preview image <u>**_./preview.png_**</u>
+Recreate the webpage as shown in the preview image <u>**_./desktop.png_**</u> and <u>**./mobile.png**</u>
 
 ### Requirements
 
-1. Must use Bootstrap framework
-2. Utilize **Bootstrap Grid System**.
-3. Using **Bootstrap Components** recreate the preview image to an actual website.
+1. Use media queries
+2. Utilize Grid and Flex
+3. Website should respond on different mobile screen sizes
